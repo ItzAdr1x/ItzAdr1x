@@ -2,7 +2,7 @@
 Im a Developer learning Cybersecurity and Python
 
 
-## 🌐 Socials:
+## 🌍 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@adr1x.tech) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ItzAdr1x) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@UCm76vybDO84TJRFXvbCU1Bg) 
 
 # 💻 Tech Stack:
